@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256.0px"
+   height="256.0px"
+   viewBox="0 0 256.0 256.0"
+   version="1.1"
+   id="SVGRoot"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs824">
+    <rect
+       x="6"
+       y="128"
+       width="244"
+       height="122"
+       id="rect125959" />
+    <rect
+       x="6"
+       y="128"
+       width="244"
+       height="122"
+       id="rect110813" />
+    <rect
+       x="6"
+       y="6"
+       width="244"
+       height="244"
+       id="rect39862" />
+    <rect
+       x="0"
+       y="6"
+       width="250"
+       height="244"
+       id="rect29986" />
+    <rect
+       x="128"
+       y="128"
+       width="75.402222"
+       height="80.670326"
+       id="rect10123" />
+    <linearGradient
+       id="linearGradient2573">
+      <stop
+         style="stop-color:#3465a4;stop-opacity:0.90588236"
+         offset="0"
+         id="stop2569" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2571" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2573"
+       id="linearGradient1601"
+       x1="128"
+       y1="6"
+       x2="128"
+       y2="250"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text10121"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect10123);fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(3.0835305,0,0,3.55753,-314.41565,-403.12421)" />
+    <text
+       xml:space="preserve"
+       id="text29984"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect29986)" />
+    <text
+       xml:space="preserve"
+       id="text39860"
+       style="font-style:normal;font-weight:normal;font-size:80px;line-height:3.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect39862);fill:#3465a4;fill-opacity:1;stroke:none"
+       x="54.296875"
+       y="0"><tspan
+         x="31.671875"
+         y="156.78125"
+         id="tspan64"><tspan
+           style="font-family:'Hack Nerd Font';-inkscape-font-specification:'Hack Nerd Font';text-align:center;text-anchor:middle"
+           id="tspan62">AFCM</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text110811"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect110813)" />
+    <text
+       xml:space="preserve"
+       id="text125957"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:0;font-family:sans-serif;white-space:pre;fill:#000000;fill-opacity:1;stroke:none;shape-inside:url(#rect125959)"
+       x="20"
+       y="0"><tspan
+         x="108.00004"
+         y="205.4"
+         id="tspan68"><tspan
+           style="line-height:3.3;text-align:center;text-anchor:middle;fill:#3465a4"
+           id="tspan66"></tspan></tspan></text>
+    <rect
+       style="fill:url(#linearGradient1601);stroke:#3465a4;stroke-width:11;fill-opacity:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect869"
+       width="244"
+       height="244"
+       x="6"
+       y="6" />
+  </g>
+</svg>
