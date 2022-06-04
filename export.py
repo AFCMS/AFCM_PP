@@ -27,7 +27,7 @@ for t in {"round", "square"}:
 	for c in {"alpha", "white"}:
 		source_path = pathlib.Path(f"./svg/AFCM_{t}_{c}.svg")
 
-		for s in {256, 512, 1024, 2048}:
+		for s in {64, 128, 256, 512, 1024, 2048}:
 			out_path = pathlib.Path(f"./png/AFCM_{t}_{c}_x{s}.png")
 
 			print("Exporting:", out_path.name)
