@@ -1,5 +1,7 @@
 # AFCM Profile Picture Source
 
+![Linter](https://github.com/AFCMS/AFCM_PP/workflows/Linting/badge.svg)
+
 Images: All rights reserved
 
 Code: GPLv3
