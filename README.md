@@ -8,7 +8,7 @@ Code: GPLv3
 
 ## Workflow
 
-You need the "Hack Nerd Font" font installed for the profile picture to render properly.
+You need the [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts) font installed for the profile picture to render properly.
 
 To modify the profile picture, you need to edit the files in `./src` using Inkscape.
 
