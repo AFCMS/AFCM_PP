@@ -12,4 +12,8 @@ You need the [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts) font inst
 
 To modify the profile picture, you need to edit the files in `./src` using Inkscape.
 
-Then you can regenerate all the simple SVG and PNG files just by using `python3 ./export.py` (you still need to have the inkscape executable in your PATH).
+Then you can regenerate all the simple SVG and PNG files just by using `python3 ./export.py` (you need to have the inkscape executable or a Flatpak installation, it's not auto detected).
+
+You also need to have the `oxipng` executable in your PATH to optimize the PNG files.
+
+`oxipng` is configured to use the Zopfli compressor which is very slow on large files like the max resolutions.
